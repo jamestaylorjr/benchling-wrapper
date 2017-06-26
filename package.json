@@ -1,0 +1,13 @@
+{
+	"name":"Benchling Standalone",
+	"version":"0.5",
+	"main":"index.html",
+	"window": {
+		"frame": false,
+		"toolbar": false,
+		"fullscreen": false,
+		"min_width": 400,
+		"min_height": 400
+		
+	}
+}
